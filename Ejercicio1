@@ -1,0 +1,8 @@
+LLAMANTE			LLAMADO
+
+main(53)			stut
+stut(76)			isDelimit	
+stut(78,86)			checkDupes
+checkDupes(120,122,123)		stud
+
+
